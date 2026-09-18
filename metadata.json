@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "enVision - Gamified Eye Health Companion",
+  "description": "Gamified eye-health companion that helps reduce digital eye strain with 20-20-20 breaks, daily eye exercises, streaks, leaderboards, screen time vs eye strain correlation graphs, evidence-based recommendations, and background break monitoring.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
